@@ -34,7 +34,7 @@ Instead of having another player suggest the game, we will automate this by usin
 - Create an `issue` for every tasks. You can create one issue for big tasks and divide it into smaller issues inside with checkboxes.
 - Use `projects` in github to manage the tasks, they can be useful in arranging the tasks or issues with description and image so everyone knows what they should do
 - To track your work its better to add columns like `in progress`, `done` , and `closed`
-- Minimize the communication required in Slack. Sending messages in the same group to ask "Who is working on task#2?" Should be direct to Github projects instead to look at the board there.
+- Minimize the communication required in Discord. Sending messages in the same group to ask "Who is working on task#2?" Should be direct to Github projects instead to look at the board there.
 
 ## Coding Phase
 
